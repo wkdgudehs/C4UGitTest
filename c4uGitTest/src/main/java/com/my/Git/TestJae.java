@@ -4,7 +4,7 @@ public class TestJae {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("¸Á°í¿Íµş±â´Â¸ÀÀÖ¾î");
+		System.out.println("ë§ê³ ë¥¼í•œêµ­ì–´ë¡œê¼­ì“°ì");
 	}
 
 }
