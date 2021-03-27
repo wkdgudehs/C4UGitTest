@@ -5,5 +5,6 @@ public class JustTest {
 	public static void main(String[] args) {
 		System.out.println("�뿿");
 		System.out.println("Test");
+		System.out.println("보람");
 	}
 }
