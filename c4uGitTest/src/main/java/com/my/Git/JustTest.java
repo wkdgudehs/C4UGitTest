@@ -6,5 +6,6 @@ public class JustTest {
 		System.out.println("헿");
 System.out.println("은준테스트");
 System.out.println("은준테스트2");
+System.out.println("은준테스트3");
 	}
 }
